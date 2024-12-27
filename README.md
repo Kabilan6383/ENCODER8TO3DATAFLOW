@@ -1,4 +1,6 @@
  ENCODER 8TO3 DATAFLOW Modelling
+ 
+ DATE:21.11.2024
 
 **AIM:**
 
@@ -61,6 +63,8 @@ Developed by: RegisterNumber:
 ![WhatsApp Image 2024-12-05 at 19 17 46_f5145061](https://github.com/user-attachments/assets/44995b75-8f19-43e3-b560-8a095c774644)
 
 **RESULTS**
+
+Thus the code has been executed successfully
 
 
 
